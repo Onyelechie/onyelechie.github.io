@@ -120,19 +120,26 @@ window.addEventListener('DOMContentLoaded', function() {
           insertText = (
                 "👋 Welcome to Ebere's Portfolio Website.\n"+
                 "Hello, everyone! I'm a dedicated and driven computer science student with a strong passion for coding, problem-solving, and innovation."+
-                "\nMy academic journey at the University of Manitoba has equipped me with a solid foundation in"+" computer science, complemented by a keen interest in the analytical aspects of mathematics and economics.\n\n"+
-                "\nProfessional Experience:\nCurrently, I am an Data Analyst intern at"+" IGM Financial (IG Wealth Management)"+
-                "\nI am also working as a Software Developer at Limitless Aeronautics, a cutting-edge aerospace technology company. "+
-                "\nIn my role, I contribute to the development of state-of-the-art software solutions that power next-generation aviation technology. "+
-                "\nI thrive in an environment that encourages creativity and problem-solving, and I'm excited to be a part of a team that is reshaping the future of aviation.\n\n"+
-                "\nI was also a Quant trading and research intern at"+" Quantreo creating an algorithmic trading bot to automate the process of trading analysis and execution." +
-                "\nExperienced in Python, R, Java, JavaScript, C++, C, HTML, and CSS.\n\n"+
+                "\nMy academic journey at the University of Manitoba has equipped me with a solid foundation in"+" computer science, complemented by minors in mathematics and economics.\n\n"+
+                "\nProfessional Experience:\nI recently completed a Software Development Engineering Internship at"+" Amazon Web Services (AWS) in Toronto, Ontario, "+
+                "where I engineered backend coral services deployed on AWS Lambda,\narchitected infrastructure as code with AWS CDK, "+
+                "and led the design of full-stack internal web applications using Java, React, and TypeScript.\n\n"+
+                "\nPreviously, I worked as a Data Analyst Intern at IGM Financial (IG Wealth Management) where I developed new data models using SQL and SAP HANA "+
+                "to automate financial reports and created forecasts for key performance metrics.\n\n"+
+                "\nI was also a Quantitative Trader and Researcher Intern at"+" Quantreo in Paris, France, where I conducted quantitative analysis on currency pair CFDs "+
+                "and collaborated with senior traders to develop trading algorithms in Python,\nachieving a 29% increase in trading profitability.\n\n"+
+                "\nAdditionally, I worked as a Software Engineer at Limitless Aeronautics in Daytona Beach, Florida, "+
+                "where I designed user-friendly interfaces for UAV ground control systems and led the creation of a JavaScript framework "+
+                "\ntailored to the aeronautics industry, resulting in a 40% increase in operational efficiency.\n\n"+
+                "\nTechnical Skills:\nExperienced in Java, Python, C, C++, SQL, JavaScript, TypeScript, HTML, CSS, R, React, "+
+                "NumPy, Pandas, Matplotlib, LeafletJS, Git, GitHub, Visual Studio Code, IntelliJ IDEA, SAP, and REST APIs.\n\n"+
                 "\nAcademic Pursuits:\nMy academic journey is fueled by a desire to understand the theoretical foundations of computer science, mathematics, and economics, "+
                 "while also applying this knowledge in practical, real-world settings. "+
                 "\nI'm constantly seeking opportunities to bridge the gap between theory and application.\n\n"+
                 "\nLet's Connect!\n"+
-                "\nI'm always open to connecting with fellow students, professionals, and anyone who shares a passion for technology, aerospace, or simply wants to chat about all things related to computer science, math, and economics. "+
-                "\nFeel free to reach out. I'm excited to connect and learn from your experiences!"
+                "\nI'm always open to connecting with fellow students, professionals, and anyone who shares a passion for technology, cloud computing, quantitative finance, "+
+                "or simply wants to chat about all things related to computer science,\nmaths, and economics. "+
+                "\nFeel free to reach out via LinkedIn or GitHub. I'm excited to connect and learn from your experiences!"
             )
             return insertText
             break
